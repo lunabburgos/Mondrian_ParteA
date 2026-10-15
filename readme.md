@@ -9,6 +9,9 @@ Linhas e quadrados: as linhas pretas (cor 20) têm espessuras diferentes (15 e 1
 windowResized: redimensiona o canvas, mas como o noLoop() está ativo, o conteúdo desaparece ao redimensionar.
 
 
+
 Referência degradê: https://p5js.org/tutorials/color-gradients/
+
 Referência textura: https://p5js.org/reference/p5/texture/
+
 Referência blendMode: https://p5js.org/reference/p5/blendMode/
